@@ -121,31 +121,44 @@ The dataset contains:
 
 ---
 
-## Project Structure
+# Summary :
 
-Data/
-Notebook/
-Images/
+#1. Uttar Pradesh has the highest number of districts i.e. 75. As UP is geographically and demographically 
+#large, payment service providers should prioritize creating district-level targeted campaigns instead of 
+#a single state-wide campaign.
 
----
+#2.Top 5 states with highest transaction volume:  
+            
+#	       State        Transactions
+#15       Karnataka    2981044533
+#20     Maharashtra    2833670154
+#31       Telangana    2347430243
+#1   Andhra Pradesh    1781091169
+#28       Rajasthan    1382918930
 
-## How to Run
+#5 states with lowest transaction volume:  
 
-```bash
-pip install -r requirements.txt
-```
+#                       State      Transactions
+#22                  Meghalaya       5648913
+#23                    Mizoram       2162776
+#17                     Ladakh       1880109
+#0   Andaman & Nicobar Islands       1223565
+#18                Lakshadweep         71610
 
-Open:
+#3. District with Highest population is North 24 parganas, West Bengal
+#and lowest population is Lakshadweep, Lakshadweep.
 
-```bash
-jupyter notebook
-```
+#4. Average transaction value is the highest in Ladakh and lowestest in
+#West Bengal.
 
-Run:
+#5. The highest transactions are done under the "Peer to peer payments" transaction type
+#and lowest number of transaction are done under "Financial services". Company should increase awareness of 
+#Financial Services (insurance, loans, bill payments, investments) inside the app.
 
-```text
-PhonePe_Pulse_Analysis.ipynb
-```
+#6. Telangana has the highest and Lakshadweep as the lowest number of Registered users for the app. Telangana 
+#should invest in UPI upgrades and new features on the app. Lakshadweep should increase awareness campaigns, 
+#and Government partnerships to improve connectivity.
+
 
 ---
 
